@@ -1,0 +1,6 @@
+customer_id,age,income,credit_utilization,missed_payments,outstanding_balance
+C001,28,450000,0.85,3,120000
+C002,35,850000,0.30,0,20000
+C003,42,600000,0.65,1,50000
+C004,30,300000,0.90,4,150000
+C005,50,900000,0.25,0,10000

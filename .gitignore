@@ -1,0 +1,4 @@
+__pycache__/
+.env
+risk_assessment_output.csv
+report.txt
