@@ -6,7 +6,7 @@ from openai import OpenAI
 # 1. Initialize OpenAI Client
 
 client = OpenAI(
-    api_key=os.getenv("OPENAI_API_KEY")
+    api_key=os.getenv("Enter your api key here")
 )
 
 
